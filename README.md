@@ -12,7 +12,7 @@ xserver-xorg-input-wizardpen_0.8.2-0ubuntu2_amd64.deb (18.0 KiB)
 2) Create Xorg config files
 
 Create /usr/share/X11/xorg.conf.d/52-tablet.conf and fill with this:
-Section "InputClass"
+Section "InputClass"/n
     Identifier "UC-Logic tablet"
     MatchIsTablet "on"
     MatchProduct "UGTABLET TABLET G3 4x3"
