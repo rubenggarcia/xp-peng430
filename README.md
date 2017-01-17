@@ -46,4 +46,4 @@ Add this lines to the xorg.conf file:
         Option               "IgnoreABI"
     EndSection
 
-Restart computer (or only lightdm) and enjou
+Restart computer (or only lightdm) and enjoy
